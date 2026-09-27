@@ -1,22 +1,24 @@
-# RustChain #16601 — Type A Full Production Kit
+# RustChain #16601 — Type B Script + Storyboard Kit
 
 Submission package for **rustchain-bounties #16601**, prepared by **xpex-systems-ai**.
 
 ## Package
-Type A — YouTube full production kit.
+Type B — YouTube script + storyboard kit (15 RTC).
 
 **Working title:** Proof of Antiquity: How RustChain Turns Physical Hardware Into Consensus
 
-This repository contains the narration script, production/edit map, metadata, source audit, generated visual specifications, and voiceover manifest for a 3–8 minute educational video grounded in RustChain's public protocol specification.
+This repository contains a source-backed narration script, precise storyboard/capture plan, timed assembly map, metadata, and claim-by-claim source audit. It intentionally does **not** assert Type A completeness: audio, final visual assets, and rendered thumbnails are not part of this Type B submission.
 
-## Contents
-- `script.md` — narration
+## Review files
+- `script.md` — ~5 minute narration
+- `storyboard.md` — shot-by-shot capture instructions and integrity rules
 - `assembly.md` — timed edit map
 - `metadata.md` — titles, description, tags, chapters
 - `SOURCES.md` — claim-by-claim verification
-- `visuals/README.md` — rights-safe/generated visual plan
-- `voiceover/README.md` — narration segmentation and TTS disclosure
-- `thumbnail-specs.md` — three 1280×720 thumbnail specifications
+- `thumbnail-specs.md` — optional production guidance, not claimed as rendered thumbnails
+
+## Integrity
+No reconstructed terminal output is represented as a real capture. Numeric protocol claims are mapped to public RustChain sources. Antiquity multipliers are not represented as benchmark speed, fiat value, or guaranteed earnings.
 
 ## Attribution
 Author/producer: xpex-systems-ai / GXEON.
@@ -24,4 +26,4 @@ Author/producer: xpex-systems-ai / GXEON.
 ## RTC payout wallet
 `RTC82c21b7f32d0e65c4aa9785d6561a55ff6127269`
 
-No private key or secret material is stored in this repository.
+No private key, seed, or secret material is stored in this repository.
